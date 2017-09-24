@@ -13,7 +13,7 @@
         
         1. `"cpsc340_2017W1" : -cl CPSC340_2017W1.csv -n A2 -q (q1,10)`
 
-3. Run`python main.py -c cpsc340_2017W1`, it should launch a grade sheet similar to the one below:
+3. Run`python main.py -c 2016W1` or `python main.py -c 2017W1`, it should launch a grade sheet similar to the one below:
 
 ![](example.png)
 
