@@ -17,6 +17,8 @@
 
 ![](example.png)
 
+If you add the  **cpsc340_2017W1** to `configs.json`, you can run `python main.py -c cpsc340_2017W1`.
+
 4. The following are several features of the grade sheet:
   
     1. The green color represents graded students. 
