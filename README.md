@@ -17,7 +17,7 @@
 
 ![](example.png)
 
-If you add the  **cpsc340_2017W1** to `configs.json`, you can run `python main.py -c cpsc340_2017W1`.
+If you add **cpsc340_2017W1** configuration to `configs.json`, you can run `python main.py -c cpsc340_2017W1`.
 
 4. The following are several features of the grade sheet:
   
